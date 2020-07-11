@@ -1,0 +1,10 @@
+C:\Users\aljel\Documents\C#\Assigment6A\bin\Debug\Assigment6A.exe.config
+C:\Users\aljel\Documents\C#\Assigment6A\bin\Debug\Assigment6A.exe
+C:\Users\aljel\Documents\C#\Assigment6A\bin\Debug\Assigment6A.pdb
+C:\Users\aljel\Documents\C#\Assigment6A\obj\Debug\Assigment6A.csprojAssemblyReference.cache
+C:\Users\aljel\Documents\C#\Assigment6A\obj\Debug\Assigment6A.MainForm.resources
+C:\Users\aljel\Documents\C#\Assigment6A\obj\Debug\Assigment6A.Properties.Resources.resources
+C:\Users\aljel\Documents\C#\Assigment6A\obj\Debug\Assigment6A.csproj.GenerateResource.cache
+C:\Users\aljel\Documents\C#\Assigment6A\obj\Debug\Assigment6A.csproj.CoreCompileInputs.cache
+C:\Users\aljel\Documents\C#\Assigment6A\obj\Debug\Assigment6A.exe
+C:\Users\aljel\Documents\C#\Assigment6A\obj\Debug\Assigment6A.pdb
